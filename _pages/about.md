@@ -7,6 +7,7 @@ redirect_from:
   - /about.html
 ---
 
+
 I am currently a PhD student in Transportation Planning and Management at the [School of Transportation Engineering, Chang'an University](https://ysxy.chd.edu.cn/). My supervisors are [Professor Zhang Chi](https://js.chd.edu.cn/glxy/zc/) and [Associate Professor Zhang Min](https://js.chd.edu.cn/ysgcxy/zm/). I obtained a Bachelor's degree in Transportation Engineering from Changsha University of Science and Technology in June 2022 (under the guidance of [Lecturer Li Shun](https://www.csust.edu.cn/jtysgcxy/info/1130/17459.htm), and pursued a Master's degree in Transportation Engineering at Chang'an University in September 2022. I started pursuing a doctoral degree in 2024.
 
 My research interests include road traffic safety, traffic big data analysis and application technologies, such as evaluating the geometric design of roads and using trajectory data to identify road risk sections.
