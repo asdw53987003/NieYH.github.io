@@ -5,20 +5,20 @@
 # prevent it from being included in the site.
 
 main:
-  - title: "Introduction"
-    url: /pages/
+ # - title: "Introduction"
+   # url: /pages/
     
-  - title: "Publications"
-    url: /pages/
+ # - title: "Publications"
+ #   url: /pages/
 
-  - title: "Honors and Awards"
-    url: /pages/    
+  #- title: "Honors and Awards"
+  #  url: /pages/    
 
-  - title: "Academic Activities"
-    url: /pages/    
+#  - title: "Academic Activities"
+   # url: /pages/    
     
-  - title: "Portfolio"
-    url: /pages/
+  #- title: "Portfolio"
+    #url: /pages/
         
 
     
