@@ -20,7 +20,7 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-●Zhang, M., [Nie, Y.], Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215 [pdf](https://github.com/user-attachments/files/17172191/sustainability-16-06215-v3.pdf)  
+●Zhang, M., [Nie, Y.], Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215 [(pdf)](https://github.com/user-attachments/files/17172191/sustainability-16-06215-v3.pdf)  
 
 ●Zhang M, [Nie Y], Wang B, et al. Explore the lane change trajectory pattern driven by full-time domain trajectory data[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)
 
@@ -33,8 +33,8 @@ Publications
 
 Honors and Awards
 ------
-2023.6 [Outstanding Paper Award at the World Transport Congress](https://github.com/user-attachments/assets/12b2a86f-aaa4-4ad9-9da1-07b7b23ac96e)
-2023.8 [First Prize in the 4th 'Huashu Cup' Graduate Mathematical Modeling Competition](https://github.com/user-attachments/files/17172127/default.pdf)
+2023.6 [Outstanding Paper Award at the World Transport Congress](https://github.com/user-attachments/assets/12b2a86f-aaa4-4ad9-9da1-07b7b23ac96e)<br>
+2023.8 [First Prize in the 4th 'Huashu Cup' Graduate Mathematical Modeling Competition](https://github.com/user-attachments/files/17172127/default.pdf)<br>
 2024.4 [Silver Award in the 2024 Chang'an University Challenge Cup College Student Entrepreneurship Plan Competition](https://github.com/user-attachments/assets/339050d8-0ac2-47e5-9939-35efa0c25dff)
 
 
@@ -42,7 +42,7 @@ The main configuration file for the site is in the base directory in [_config.ym
 
 Academic Activities
 ------
-2023.6 [2023 World Transport Congress](https://github.com/user-attachments/files/17172165/4.pdf)
+2023.6 [2023 World Transport Congress](https://github.com/user-attachments/files/17172165/4.pdf)<br>
 2024.6 [2024 World Transport Congress](https://github.com/user-attachments/files/17172168/5.pdf)
 
 
