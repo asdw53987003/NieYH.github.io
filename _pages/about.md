@@ -20,7 +20,8 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-●Zhang, M., [Nie, Y.], Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215 [pdf](https://github.com/user-attachments/files/17172179/sustainability-16-06215.2.pdf)
+●Zhang, M., [Nie, Y.], Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215 [pdf](https://github.com/user-attachments/files/17172191/sustainability-16-06215-v3.pdf)  
+
 ●Zhang M, [Nie Y], Wang B, et al. Explore the lane change trajectory pattern driven by full-time domain trajectory data[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)
 
 
