@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Academic Pages"
+title: "📖Academic Pages"
 author_profile: true
 redirect_from: 
   - /about/
