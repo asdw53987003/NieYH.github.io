@@ -20,7 +20,10 @@ Many of the features of dynamic content management systems (like Wordpress) can 
 
 Publications
 ======
-1. Register a GitHub account if you don't have one and confirm your e-mail (required!)
+●Zhang, M., [Nie, Y.], Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215 [pdf](https://github.com/user-attachments/files/17172179/sustainability-16-06215.2.pdf)
+●Zhang M, [Nie Y], Wang B, et al. Explore the lane change trajectory pattern driven by full-time domain trajectory data[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)
+
+
 1. Fork [this repository](https://github.com/academicpages/academicpages.github.io) by clicking the "fork" button in the top right. 
 1. Go to the repository's settings (rightmost item in the tabs that start with "Code", should be below "Unwatch"). Rename the repository "[your GitHub username].github.io", which will also be your website's URL.
 1. Set site-wide configuration and create content & metadata (see below -- also see [this set of diffs](http://archive.is/3TPas) showing what files were changed to set up [an example site](https://getorg-testacct.github.io) for a user with the username "getorg-testacct")
