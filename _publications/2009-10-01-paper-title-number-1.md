@@ -2,7 +2,7 @@
 title: "Vehicle trajectory fractal theory for macro-level highway crash rate analysis"
 collection: publications
 category: manuscripts
-permalink: /publication/2010-10-01-paper-title-number-2
+permalink: /publication/2009-10-01-paper-title-number-1
 excerpt: 'This paper is about the number 2. The number 3 is left for future work.'
 date: 2025-03-11
 venue: 'Accident Analysis & Prevention'
