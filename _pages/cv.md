@@ -17,7 +17,7 @@ My research interests include road traffic safety, traffic big data analysis and
 📝Publications
 ======
 ●[Nie, Y.], Zhang, M., Wang, B., Zhang, C., & Zhao, Y. (2025). Vehicle trajectory fractal theory for macro-level highway crash rate analysis. Accident Analysis & Prevention, 215, 107989. https://doi.org/10.1016/j.aap.2025.107989<br>
-●Zhang C, Zhou, Y., Zahng M, Wang B, [Nie Y],. Review and prospect of floating car data research in transportation[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)(online publishing)<br>
+●Zhang C, Zhou, Y., Zhang M, Wang B, [Nie Y],. Review and prospect of floating car data research in transportation[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)(online publishing)<br>
 ●Zhang, M., [Nie, Y.], Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215 <br>
 ●Zhang M, [Nie Y], Wang B, et al. Explore the lane change trajectory pattern driven by full-time domain trajectory data[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)(online publishing)<br>
 ●Zhang Min, Liu Kai, Zhang Chi, Xi Shengyu&[Nie Yuhan] A speed model for freight trains on interchange ramps based on high-frequency GPS data Journal of Transportation Engineering 1-17
@@ -27,6 +27,7 @@ My research interests include road traffic safety, traffic big data analysis and
 2023.6 [Outstanding Paper Award at the World Transport Congress](https://github.com/user-attachments/assets/12b2a86f-aaa4-4ad9-9da1-07b7b23ac96e)<br>
 2023.8 [First Prize in the 4th 'Huashu Cup' Graduate Mathematical Modeling Competition](https://github.com/user-attachments/files/17172127/default.pdf)<br>
 2024.4 [Silver Award in the 2024 Chang'an University Challenge Cup College Student Entrepreneurship Plan Competition](https://github.com/user-attachments/assets/339050d8-0ac2-47e5-9939-35efa0c25dff)
+2024.12 [The First "Stone Gold Cup" BIM Technology Competition - University Group]
 
 
 😄Academic Activities
