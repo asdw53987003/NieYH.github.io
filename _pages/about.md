@@ -16,11 +16,11 @@ My research interests include road traffic safety, traffic big data analysis and
 
 📝Publications
 ======
-●[Nie, Y.], Zhang, M., Wang, B., Zhang, C., & Zhao, Y. (2025). Vehicle trajectory fractal theory for macro-level highway crash rate analysis. Accident Analysis & Prevention, 215, 107989. https://doi.org/10.1016/j.aap.2025.107989<br>
-●Zhang C, Zhou, Y., Zhang M, Wang B, [Nie Y],. Review and prospect of floating car data research in transportation[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)(online publishing)<br>
-●Zhang, M., [Nie, Y.], Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215 <br>
-●Zhang M, [Nie Y], Wang B, et al. Explore the lane change trajectory pattern driven by full-time domain trajectory data[J/OL]. Journal of Traffic and Transportation Engineering(English Edition)(online publishing)<br>
-●Zhang Min, Liu Kai, Zhang Chi, Xi Shengyu&[Nie Yuhan] A speed model for freight trains on interchange ramps based on high-frequency GPS data Journal of Transportation Engineering 1-17
+●2025.03 [Nie, Y., Zhang, M., Wang, B., Zhang, C., & Zhao, Y. (2025). Vehicle trajectory fractal theory for macro-level highway crash rate analysis. Accident Analysis & Prevention, 215, 107989. https://doi.org/10.1016/j.aap.2025.107989](https://github.com/asdw53987003/NieYH.github.io/blob/master/files/AAP.pdf)<br>
+●2024.10 [Zhang C, Zhou, Y., Zhang M, Wang B, Nie, Y.,. Review and prospect of floating car data research in transportation J/OL. Journal of Traffic and Transportation Engineering(English Edition)(online publishing)](https://github.com/asdw53987003/NieYH.github.io/blob/master/files/Review%20and%20pr...ransportation_Chi%20Zhang.pdf)<br>
+●2024.09 [Zhang, M., Nie, Y., Zhang, C., Wang, B., & Xi, S. (2024). Analysis of the Duration of Mandatory Lane Changes for Heavy-Duty Trucks at Interchanges. In SUSTAINABILITY (Vol. 16, Issue 14). MDPI. https://doi.org/10.3390/su16146215](https://github.com/asdw53987003/NieYH.github.io/blob/master/files/sus.pdf) <br>
+●2024.09 [Zhang M, Nie, Y., Wang B, et al. Explore the lane change trajectory pattern driven by full-time domain trajectory data J/OL. Journal of Traffic and Transportation Engineering(English Edition)(online publishing)](https://github.com/asdw53987003/NieYH.github.io/blob/master/files/JTTE.pdf)<br>
+●2024.09 [Zhang Min, Liu Kai, Zhang Chi, Xi Shengyu&Nie, Y. A speed model for freight trains on interchange ramps based on high-frequency GPS data Journal of Transportation Engineering 1-17]
 
 🎖Honors and Awards
 ------
