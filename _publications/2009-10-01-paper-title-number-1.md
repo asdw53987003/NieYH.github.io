@@ -1,5 +1,5 @@
 ---
-title: "Paper Title Number 2"
+title: "Vehicle trajectory fractal theory for macro-level highway crash rate analysis"
 collection: publications
 category: manuscripts
 permalink: [/publication/2009-10-01-paper-title-number-1](https://www.sciencedirect.com/science/article/abs/pii/S0001457525000752)
