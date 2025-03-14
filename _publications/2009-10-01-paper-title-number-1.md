@@ -6,8 +6,8 @@ permalink: [/publication/2009-10-01-paper-title-number-1](https://www.sciencedir
 excerpt: 'This paper is about the number 1. The number 2 is left for future work.'
 date: 2009-10-01
 venue: 'Accident Analysis & Prevention'
-slidesurl: 'http://academicpages.github.io/files/AAP.pdf'
-paperurl: 'http://academicpages.github.io/files/AAP.pdf'
+slidesurl: '[http://academicpages.github.io/files/AAP.pdf](https://github.com/asdw53987003/NieYH.github.io/blob/master/files/AAP.pdf)'
+paperurl: '[http://academicpages.github.io/files/AAP.pdf](https://github.com/asdw53987003/NieYH.github.io/blob/master/files/AAP.pdf)'
 citation: 'Nie, Y., Zhang, M., Wang, B., Zhang, C., & Zhao, Y. (2025). Vehicle trajectory fractal theory for macro-level highway crash rate analysis. Accident Analysis & Prevention, 215, 107989. https://doi.org/10.1016/j.aap.2025.107989'
 ---
 
