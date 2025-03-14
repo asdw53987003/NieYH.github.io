@@ -26,7 +26,7 @@ My research interests include road traffic safety, traffic big data analysis and
 ------
 2023.6 [Outstanding Paper Award at the World Transport Congress](https://github.com/user-attachments/assets/12b2a86f-aaa4-4ad9-9da1-07b7b23ac96e)<br>
 2023.8 [First Prize in the 4th 'Huashu Cup' Graduate Mathematical Modeling Competition](https://github.com/user-attachments/files/17172127/default.pdf)<br>
-2024.4 [Silver Award in the 2024 Chang'an University Challenge Cup College Student Entrepreneurship Plan Competition](https://github.com/user-attachments/assets/339050d8-0ac2-47e5-9939-35efa0c25dff)
+2024.4 [Silver Award in the 2024 Chang'an University Challenge Cup College Student Entrepreneurship Plan Competition](https://github.com/user-attachments/assets/339050d8-0ac2-47e5-9939-35efa0c25dff)<br>
 2024.12 [The First "Stone Gold Cup" BIM Technology Competition - University Group]
 
 
